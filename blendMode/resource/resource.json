@@ -1,0 +1,16 @@
+{
+"resources":
+	[
+		{"name":"laser1","type":"image","url":"assets/laser01.png"},
+		{"name":"laser2","type":"image","url":"assets/laser02.png"},
+        {"name":"laser3","type":"image","url":"assets/laser03.png"},
+        {"name":"laser4","type":"image","url":"assets/laser04.png"},
+        {"name":"laser5","type":"image","url":"assets/laser05.png"},
+        {"name":"laserBG","type":"image","url":"assets/laserBG.jpg"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"laserBG,laser1,laser2,laser3,laser4,laser5"}
+	]
+}
