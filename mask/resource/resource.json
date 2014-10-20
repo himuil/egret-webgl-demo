@@ -1,0 +1,11 @@
+{
+"resources":
+	[
+		{"name":"ball","type":"image","url":"assets/ball.png"}
+	],
+
+"groups":
+	[
+        {"name":"preload","keys":"ball"}
+	]
+}
